@@ -1,47 +1,66 @@
-# Business — Generative Engine Optimization Map
+# שי רכבים — Generative Engine Optimization Map
+
+> Shai Vehicles is a personal car consulting and accompaniment service that guides clients through the process of buying and selling cars. The brand focuses on providing expert, individualized support to ensure clients make informed decisions and get the best deal possible. The service positions itself as a trusted personal advisor in the automotive space, removing the stress and uncertainty from vehicle transactions.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://shaivehicles.zappy5.app
 שי רכבים מציע ליווי אישי מקצועי לכל מי שרוצה לקנות או למכור רכב בביטחון מלא. יועץ רכב פרטי שעובד רק בשבילך — בלי הפתעות, בלי טעויות, רק עסקה מנצחת.
 
 ### שירותים
-https://example.com/services
+https://shaivehicles.zappy5.app/services
 מבדיקת רכב לפני קנייה ועד משא ומתן מול המוכר — שי רכבים מספק מגוון שירותי ייעוץ רכב מקצועיים שמבטיחים לך את המחיר הטוב ביותר ואת הרכב המתאים ביותר עבורך.
 
 ### אודות
-https://example.com/about
+https://shaivehicles.zappy5.app/about
 שי הוא יועץ רכב פרטי עם ניסיון עשיר בשוק הרכב הישראלי. הוא הפך ייעוץ רכב אישי למקצוע שלם שמבוסס על אמון, שקיפות ותוצאות אמיתיות עבור כל לקוח ולקוח.
 
 ### צור קשר
-https://example.com/contact
+https://shaivehicles.zappy5.app/contact
 צרו קשר עם שי רכבים עוד היום וקבלו ייעוץ ראשוני אישי לקניית או מכירת רכב. אל תעשו את הצעד הבא לבד — יועץ רכב מקצועי מחכה לעזור לכם לקבל את ההחלטה הנכונה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://shaivehicles.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://shaivehicles.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://shaivehicles.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About שי רכבים
+Shai Vehicles is a personal car consulting and accompaniment service that guides clients through the process of buying and selling cars. The brand focuses on providing expert, individualized support to ensure clients make informed decisions and get the best deal possible. The service positions itself as a trusted personal advisor in the automotive space, removing the stress and uncertainty from vehicle transactions.
+
+## Services/Products
+- ייעוץ אישי לקניית רכב
+- ייעוץ אישי למכירת רכב
+- ליווי אישי בתהליך העסקה
+
+## Target Audience
+- קונים רכב בפעם הראשונה
+- משקיעי רכבים
+- מוכרים רכב
+- טרייד אין
+- קונים רכב
+
+## Industry
+רכב וייעוץ
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://shaivehicles.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shaivehicles.zappy5.app/robots.txt
