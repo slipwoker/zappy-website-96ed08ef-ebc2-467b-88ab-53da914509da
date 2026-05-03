@@ -1,6 +1,4 @@
-# שי רכבים — Generative Engine Optimization Map
-
-> Shai Vehicles is a personal car consulting and accompaniment service that guides clients through the process of buying and selling cars. The brand focuses on providing expert, individualized support to ensure clients make informed decisions and get the best deal possible. The service positions itself as a trusted personal advisor in the automotive space, removing the stress and uncertainty from vehicle transactions.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,24 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About שי רכבים
-Shai Vehicles is a personal car consulting and accompaniment service that guides clients through the process of buying and selling cars. The brand focuses on providing expert, individualized support to ensure clients make informed decisions and get the best deal possible. The service positions itself as a trusted personal advisor in the automotive space, removing the stress and uncertainty from vehicle transactions.
-
-## Services/Products
-- ייעוץ אישי לקניית רכב
-- ייעוץ אישי למכירת רכב
-- ליווי אישי בתהליך העסקה
-
-## Target Audience
-- קונים רכב בפעם הראשונה
-- משקיעי רכבים
-- מוכרים רכב
-- טרייד אין
-- קונים רכב
-
-## Industry
-רכב וייעוץ
-
+## About Business
 ---
 
 # Additional Resources
